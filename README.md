@@ -1,6 +1,23 @@
-### Typescript Starter
-A basic typescript setup for your project that you really should give it a try.
+# Typescript Starter
 
-Installation
+A typescript configured repo for your next node js project.
 
-<code> git clone https://github.com/kisshan26/Typescript-Starter.git </code>
+## Installation
+
+```bash
+git clone https://github.com/kisshan26/Typescript-Starter.git
+```
+
+## Setup
+
+```bash
+npm install
+```
+
+For development
+
+```bash
+npm run dev // Development
+npm run build // Build
+npm run start // Build + Run
+```
