@@ -11,6 +11,7 @@ git clone https://github.com/kisshan26/Typescript-Starter.git
 ## Setup
 
 ```bash
+cd typescript-starter
 npm install
 ```
 
